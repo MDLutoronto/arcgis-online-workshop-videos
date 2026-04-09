@@ -21,5 +21,3 @@ Created by Marcel Fortin, GIS and Map Librarian, in January 2021, this 4-part vi
 * [Part 2 - Formatting Data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart2/)- 9:32
 * [Part 3 - Editing Data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart3/)- 9:45
 * [Part 4 - Choropleth Mapping](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart4/)- 13:36
-
-Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [ArcGIS Online](https://mdl.library.utoronto.ca/taxonomy/term/69)
